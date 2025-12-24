@@ -32,9 +32,8 @@ This project consists of **two integrated smart contracts**:
 This design reflects real-world RWA compliance requirements.
 
 ## Project Structure
-contracts/
-├── KYCRegistry.sol
-└── IndonesiaPropertyToken.sol
+contracts/KYCRegistry.sol
+contracts/IndonesiaPropertyToken.sol
 
 ## Author
 Revaldo Valerian
