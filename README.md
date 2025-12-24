@@ -12,12 +12,12 @@ Traditional real estate investment requires large capital and is illiquid. Throu
 ## Smart Contract Architecture
 This project consists of **two integrated smart contracts**:
 
-### 1️KYCRegistry.sol
+## 1️KYCRegistry.sol
 - Manages KYC/AML whitelist
 - Only admin can approve or revoke users
 - Acts as the off-chain compliance result stored on-chain
 
-### 2️IndonesiaPropertyToken.sol
+## 2️IndonesiaPropertyToken.sol
 - ERC-20 token representing fractional property ownership
 - Enforces KYC checks on:
   - Minting
